@@ -1,3 +1,5 @@
+Disclaimer: This was forked from a vibecoded project and is in the process of being reworked
+
 # 📋 Forms Offline — Zero-Backend Data Digitization & Form Authoring Platform
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
